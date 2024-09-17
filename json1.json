@@ -1,0 +1,429 @@
+[
+  {
+    "question": "What is the primary function of cameras in the context of network security?",
+    "choices": [ "To capture wildlife", "To deter unauthorized access", "To monitor employee efficiency", "To film promotional materials" ],
+    "correct": "To deter unauthorized access"
+  },
+  {
+    "question": "After completing a routine server update, users begin experiencing intermittent connectivity issues. What should the network administrator inquire about first to assess if a recent change could be causing the network problems?",
+    "choices": [ "Did the server update include changes to virtual LAN settings?", "Were there changes made to the firewall configurations?", "Were any additional network monitoring tools installed?", "Has there been an increase in reported phishing attempts?" ],
+    "correct": "Were there changes made to the firewall configurations?"
+  },
+  {
+    "question": "When troubleshooting a connectivity issue, what should be one of the first settings to verify on an affected device?",
+    "choices": [ "System uptime", "Installed applications", "IP configuration", "The version of the operating system" ],
+    "correct": "IP configuration"
+  },
+  {
+    "question": "Which network topology is considered the most suitable for an environment requiring robust fault tolerance and high traffic volume without a significant concern for setup and maintenance costs?",
+    "choices": [ "Spine and leaf", "Mesh", "Point to point", "Star" ],
+    "correct": "Mesh"
+  },
+  {
+    "question": "A network engineer needs to update the firmware of several low-storage network devices in a resource-constrained environment. The devices do not require secure file transfers. Which protocol is the most suitable for performing these updates?",
+    "choices": [ "Hypertext Transfer Protocol (HTTP)", "File Transfer Protocol (FTP)", "Secure File Transfer Protocol (SFTP)", "Trivial File Transfer Protocol (TFTP)" ],
+    "correct": "Trivial File Transfer Protocol (TFTP)"
+  },
+  {
+    "question": "A network administrator is setting up a route between two networks within a large organization. To optimize the selection process for the routing protocol, which of the following factors should primarily be considered to ensure the best path is chosen for data packets?",
+    "choices": [ "Type of routing protocol used", "The geographical location of the routers", "The brand of the routers", "Administrative distance" ],
+    "correct": "Administrative distance"
+  },
+  {
+    "question": "A network administrator is planning to update the configurations on several critical network devices. To adhere to best practices in configuration management, what is the most important action that should be performed before applying the new configurations?",
+    "choices": [ "Increase the network monitoring level", "Make notes of current performance metrics", "Inform the IT department about the change", "Back up the current configurations" ],
+    "correct": "Back up the current configurations"
+  },
+  {
+    "question": "While working on crucial network configuration scripts, a project manager receives an alert about a merge conflict caused by simultaneous updates made to the scripts. To effectively approach this conflict, what should be the manager's initial action?",
+    "choices": [ "Analyze the conflicting changes and the context behind each contributor's updates.", "Merge the changes arbitrarily to expedite script deployment.", "Revert all changes to the last confirmed stable version of the script without further analysis.", "Directly resolve the conflict by choosing the most recently updated version." ],
+    "correct": "Analyze the conflicting changes and the context behind each contributor's updates."
+  },
+  {
+    "question": "Directional antennas are designed to concentrate the signal in a specific direction to increase range and reduce interference.",
+    "choices": [ "True", "False" ],
+    "correct": "True"
+  },
+  {
+    "question": "A honeynet is primarily used to strengthen the network perimeter directly by filtering out malicious traffic.",
+    "choices": [ "True", "False" ],
+    "correct": "False"
+  },
+  {
+    "question": "A company plans to extend its Wi-Fi coverage to ensure seamless connectivity across its large, multi-floor office building without installing additional cabling. They are considering using a mesh network. Which of the following benefits is a primary reason for choosing a mesh network in this scenario?",
+    "choices": [ "It inherently provides better bandwidth utilization.", "It significantly increases the amount of broadcast traffic.", "It ensures fiber optic or ethernet cabling is redundant and fail-safe", "It allows extensive coverage with minimal physical infrastructure." ],
+    "correct": "It allows extensive coverage with minimal physical infrastructure."
+  },
+  {
+    "question": "Which of the following best encapsulates the core benefit of implementing Infrastructure as Code in network management?",
+    "choices": [ "Dynamic scaling based on real-time traffic stats", "Configuring remote monitoring capabilities", "Encryption of sensitive data", "Automation of configuration processes" ],
+    "correct": "Automation of configuration processes"
+  },
+  {
+    "question": "Port mirroring sends copies of network packets from one port on a switch to a specific destination port for analysis.",
+    "choices": [ "True", "False" ],
+    "correct": "True"
+  },
+  {
+    "question": "A network technician suspects that the advertised bandwidth is not being fully delivered to a newly installed branch office. Which device should the technician use to verify the actual bandwidth available to this office?",
+    "choices": [ "Cable tester", "Multimeter", "Spectrum analyzer", "Speed tester" ],
+    "correct": "Speed tester"
+  },
+  {
+    "question": "Which of the following frequency bands are supported by Wi-Fi 6E-compatible devices?",
+    "choices": [ "2.4 GHz", "5 GHz", "6 GHz", "All of the above" ],
+    "correct": "All of the above"
+  },
+  {
+    "question": "The latest standard for cellular communications is known as:",
+    "choices": [ "3G", "4G", "5G", "6G" ],
+    "correct": "5G"
+  },
+  {
+    "question": "The IEEE 802.3 is a collection of standards for:",
+    "choices": [ "Token ring LANs", "Wired Ethernet", "Cable modems", "Wireless Ethernet" ],
+    "correct": "Wired Ethernet"
+  },
+  {
+    "question": "Which of the answers listed below does not refer to the characteristics of twinaxial cabling?",
+    "choices": [ "Copper cabling", "Used in data centers", "Short-range, high-speed connections", "Long-distance cable runs" ],
+    "correct": "Long-distance cable runs"
+  },
+  {
+    "question": "What is the minimum cabling requirement for a limited-range 10 Gbps Ethernet connection over copper twisted pair?",
+    "choices": [ "Cat 5", "Cat 5e", "Cat 6", "Cat 6a" ],
+    "correct": "Cat 6"
+  },
+  {
+    "question": "In the OSI model, the Layer 4 TCP protocol data unit is referred to as:",
+    "choices": [ "Bit", "Frame", "Packet", "Segment" ],
+    "correct": "Segment"
+  },
+  {
+    "question": "Which of the answers listed below refers to the Physical Layer of the OSI model?",
+    "choices": [ "Layer 2", "Layer 7", "Layer 1", "Layer 4" ],
+    "correct": "Layer 1"
+  },
+  {
+    "question": "Layer 7 of the OSI model is also known as:",
+    "choices": [ "Transport Layer", "Presentation Layer", "Session Layer", "Application Layer" ],
+    "correct": "Application Layer"
+  },
+  {
+    "question": "Which of the following answers refers to Layer 5 of the OSI model?",
+    "choices": [ "Session Layer", "Application Layer", "Transport Layer", "Presentation Layer" ],
+    "correct": "Session Layer"
+  },
+  {
+    "question": "What is the name of Layer 3 in the OSI model?",
+    "choices": [ "Network Layer", "Data Link Layer", "Session Layer", "Transport Layer" ],
+    "correct": "Network Layer"
+  },
+  {
+    "question": "Which of the following answers refers to a hardware security device or software that monitors and controls incoming and outgoing network traffic based on predetermined security rules?",
+    "choices": [ "Proxy server", "Vulnerability scanner", "Firewall", "Content filter" ],
+    "correct": "Firewall"
+  },
+  {
+    "question": "A network hardware or software solution designed for managing the optimal distribution of workloads across multiple computing resources is called:",
+    "choices": [ "Network switch", "Load balancer", "Proxy server", "Bandwidth manager" ],
+    "correct": "Load balancer"
+  },
+  {
+    "question": "In computer networking, a computer system or an application that acts as an intermediary between another computer and the Internet is commonly referred to as:",
+    "choices": [ "Bridge", "Proxy", "Server", "Gateway" ],
+    "correct": "Proxy"
+  },
+  {
+    "question": "A dedicated storage appliance that can be added to a local network is known as:",
+    "choices": [ "SAN", "NAS", "SSD", "DAS" ],
+    "correct": "NAS"
+  },
+  {
+    "question": "A dedicated local network consisting of devices providing data access is called:",
+    "choices": [ "SDN", "NAS", "iSCSI", "SAN" ],
+    "correct": "SAN"
+  },
+  {
+    "question": "A WAP is a specific type of AP that allows Wi-Fi capable devices to connect to a wired network.",
+    "choices": [ "True", "False" ],
+    "correct": "True"
+  },
+  {
+    "question": "Which network infrastructure device enables centralized management of WAPs?",
+    "choices": [ "Multilayer switch", "Active hub", "Network bridge", "Wireless LAN controller" ],
+    "correct": "Wireless LAN controller"
+  },
+  {
+    "question": "One of the key benefits provided by a CDN is the improvement of:",
+    "choices": [ "Content load times", "Host security", "User management process", "Network storage capacity" ],
+    "correct": "Content load times"
+  },
+  {
+    "question": "A system that uses public network (such as the Internet) as a means for creating private encrypted connections between remote locations is referred to as:",
+    "choices": [ "WWAN", "VPN", "PAN", "VLAN" ],
+    "correct": "VPN"
+  },
+  {
+    "question": "Which of the following answers refers to a solution that allows network administrators to prioritize certain types of network traffic?",
+    "choices": [ "NAC", "QoS", "NAT", "UTM" ],
+    "correct": "QoS"
+  },
+  {
+    "question": "A field in an IP packet that specifies how many more hops a packet can travel before being discarded is known as:",
+    "choices": [ "ToS", "OPT", "TTL", "MTU" ],
+    "correct": "TTL"
+  },
+  {
+    "question": "Which of the answers listed below refers to a solution that enables the replacement of traditional network hardware functionalities with software via virtualization?",
+    "choices": [ "SDN", "VM", "SVI", "NFV" ],
+    "correct": "NFV"
+  },
+  {
+    "question": "Which of the following terms can be used to describe an isolated network area hosted within a public cloud environment?",
+    "choices": [ "VPC", "Private cloud", "VXLAN", "Intranet" ],
+    "correct": "VPC"
+  },
+  {
+    "question": "A type of network gateway that allows instances within a cloud environment to send and receive unencrypted traffic to and from the Internet is called:",
+    "choices": [ "NAT gateway", "Internet gateway", "VPN gateway", "Default gateway" ],
+    "correct": "Internet gateway"
+  },
+  {
+    "question": "Which network connectivity option enables a secure, encrypted Internet connection between an on-premises network and cloud resources?",
+    "choices": [ "SSH", "IPsec", "SSL/TLS", "VPN" ],
+    "correct": "VPN"
+  },
+  {
+    "question": "Which cloud connectivity option provides a dedicated, private connection between an on-premises network and a cloud provider?",
+    "choices": [ "Direct Connect", "VPN", "Leased line", "Fibre Channel" ],
+    "correct": "Direct Connect"
+  },
+  {
+    "question": "Which of the following answers refers to a cloud deployment model where computing resources (such as servers, storage, and applications) are owned and operated by a third-party cloud service provider and shared across multiple organizations or tenants?",
+    "choices": [ "Hybrid cloud", "Private cloud", "Community cloud", "Public cloud" ],
+    "correct": "Public cloud"
+  },
+  {
+    "question": "A type of cloud deployment model where cloud resources are used exclusively by a single organization is referred to as:",
+    "choices": [ "Public cloud", "Community cloud", "Hybrid cloud", "Private cloud" ],
+    "correct": "Private cloud"
+  },
+  {
+    "question": "A hybrid cloud is a cloud computing environment that combines elements of both public and private clouds.",
+    "choices": [ "True", "False" ],
+    "correct": "True"
+  },
+  {
+    "question": "Which of the answers listed below refers to a cloud computing service model where clients, instead of buying hardware and software, purchase computing resources as an outsourced service from suppliers who own and maintain all the necessary equipment and software?",
+    "choices": [ "SaaS", "DaaS", "PaaS", "IaaS" ],
+    "correct": "IaaS"
+  },
+  {
+    "question": "Which of the following terms refers to the ability of a system to handle increased load by gradually adding resources, such as additional servers or storage, in a planned and deliberate manner over time?",
+    "choices": [ "Rapid elasticity", "Scalability", "Fault tolerance", "High availability" ],
+    "correct": "Scalability"
+  },
+  {
+    "question": "Which of the terms listed below refers to the automatic and dynamic adjustment of resources based on real-time demand changes?",
+    "choices": [ "Rapid elasticity", "Adaptive computing", "Load balancing", "Resource pooling" ],
+    "correct": "Rapid elasticity"
+  },
+  {
+    "question": "Which of the following terms refers to a software architecture where multiple users, each with their own isolated environment and resources, are served by a single application instance?",
+    "choices": [ "Virtualization", "Multitenancy", "Sandboxing", "Containerization" ],
+    "correct": "Multitenancy"
+  },
+  {
+    "question": "What is the function of FTP?",
+    "choices": [ "Email service", "Directory access", "Serving of web pages", "File exchange" ],
+    "correct": "File exchange"
+  },
+  {
+    "question": "Which of the answers listed below refers to a network protocol for secure file transfer over SSH?",
+    "choices": [ "TFTP", "SFTP", "Telnet", "FTPS" ],
+    "correct": "SFTP"
+  },
+  {
+    "question": "A type of cryptographic network protocol for secure data communication, remote command-line login, remote command execution, and other secure network services between two networked computers is called:",
+    "choices": [ "TFTP", "SSH", "Telnet", "RDP" ],
+    "correct": "SSH"
+  },
+  {
+    "question": "Which of the answers listed below refers to a system containing mappings of domain names to various types of data, such as numerical IP addresses?",
+    "choices": [ "DHCP", "ARP", "WINS", "DNS" ],
+    "correct": "DNS"
+  },
+  {
+    "question": "Which network protocol enables retrieving contents of an Internet page from a web server?",
+    "choices": [ "IMAP", "HTTP", "FTP", "SMTP" ],
+    "correct": "HTTP"
+  },
+  {
+    "question": "Which of the answers listed below refers to a network protocol used for synchronizing clocks over a computer network?",
+    "choices": [ "NTP", "VTP", "NNTP", "RTP" ],
+    "correct": "NTP"
+  },
+  {
+    "question": "A type of protocol used in network management systems for monitoring network-attached devices is known as:",
+    "choices": [ "Syslog", "ICMP", "NetFlow", "SNMP" ],
+    "correct": "SNMP"
+  },
+  {
+    "question": "Which of the following answers refers to a network protocol used for sending and receiving log or event messages in a network?",
+    "choices": [ "SMB", "NetFlow", "SNMP", "Syslog" ],
+    "correct": "Syslog"
+  },
+  {
+    "question": "Which of the answers listed below refers to a deprecated protocol that was designed as a secure way to send emails from a client to a mail server and between mail servers?",
+    "choices": [ "S/MIME", "S/MIME", "DKIM", "STARTTLS" ],
+    "correct": "S/MIME"
+  },
+  {
+    "question": "Which of the answers listed below best describes the function of SQL Server?",
+    "choices": [ "Application server", "Network protocol", "C2 server", "Database management system" ],
+    "correct": "Database management system"
+  },
+  {
+    "question": "Which of the following answers refers to a Microsoft-proprietary protocol that provides a graphical interface for connecting to and controlling another networked host?",
+    "choices": [ "VDI", "RDP", "SSH", "VNC" ],
+    "correct": "RDP"
+  },
+  {
+    "question": "Which of the answers listed below refers to a network protocol used to establish, manage, and terminate multimedia communication sessions, such as voice calls, video calls, and instant messaging?",
+    "choices": [ "RTP", "VoIP", "SIP", "RSTP" ],
+    "correct": "SIP"
+  },
+  {
+    "question": "Which port enables the FTP data connection for transferring file data?",
+    "choices": [ "UDP port 20", "TCP port 20", "UDP port 21", "TCP port 21" ],
+    "correct": "TCP port 20"
+  },
+  {
+    "question": "The SSH protocol runs on:",
+    "choices": [ "TCP port 21", "UDP port 22", "TCP port 20", "TCP port 22" ],
+    "correct": "TCP port 22"
+  },
+  {
+    "question": "SFTP is an extension of SSH and runs by default on TCP port 22.",
+    "choices": [ "True", "False", "xxx", "xxx" ],
+    "correct": "True"
+  },
+  {
+    "question": "Which of the following TCP ports is used by the Telnet protocol?",
+    "choices": [ "20", "21", "22", "23" ],
+    "correct": "23"
+  },
+  {
+    "question": "TCP port 25 is used by:",
+    "choices": [ "SNMP", "Telnet", "FTP", "SMTP" ],
+    "correct": "SMTP"
+  },
+  {
+    "question": "Which of the TCP/UDP ports listed below is assigned to DNS?",
+    "choices": [ "53", "67", "110", "389" ],
+    "correct": "53"
+  },
+  {
+    "question": "A DHCP server runs on UDP port:",
+    "choices": [ "66", "67", "68", "69" ],
+    "correct": "67"
+  },
+  {
+    "question": "UDP port 69 is assigned to:",
+    "choices": [ "NetBIOS", "DHCP client", "TFTP", "DHCP server" ],
+    "correct": "TFTP"
+  },
+  {
+    "question": "Which protocol uses TCP port 80?",
+    "choices": [ "HTTP", "IMAP", "HTTPS", "LDAP" ],
+    "correct": "HTTP"
+  },
+  {
+    "question": "TCP port 389 is the default network port for:",
+    "choices": [ "RDP", "LDAP", "SMB", "LDAPS" ],
+    "correct": "LDAP"
+  },
+  {
+    "question": "Which of the following TCP ports is used by HTTPS?",
+    "choices": [ "80", "443", "53", "143" ],
+    "correct": "443"
+  },
+  {
+    "question": "A network technician uses an RDP client on their Windows OS to remotely troubleshoot a problem on another Windows machine. Which TCP port needs to be opened for the built-in Windows RDP server to allow this type of network connection?",
+    "choices": [ "514", "3389", "22", "5900" ],
+    "correct": "3389"
+  },
+  {
+    "question": "Which of the following protocols is used by network devices to send error messages and operational information, enabling administrators to diagnose and troubleshoot issues with IP packet delivery?",
+    "choices": [ "CCMP", "RSTP", "ICMP", "SNMP" ],
+    "correct": "ICMP"
+  },
+  {
+    "question": "UDP is a connection-oriented protocol using a three-way handshake, which is a set of initial steps required for establishing a network connection. UDP supports error checking, flow control (managing the amount of data that is being sent), sequencing (rearranging packets that arrived out of order), and retransmission of lost packets. Example applications of UDP include the transmission of text and image data.",
+    "choices": [ "True", "False" ],
+    "correct": "False"
+  },
+  {
+    "question": "TCP is an example of a connectionless protocol. Because TCP does not support a three-way handshake while establishing a network connection, it is referred to as an unreliable or best-effort protocol. Example applications of TCP include the transmission of video and audio streaming data.",
+    "choices": [ "True", "False" ],
+    "correct": "False"
+  },
+  {
+    "question": "Which part of the IPsec protocol suite provides data integrity and authentication but not encryption?",
+    "choices": [ "ESP", "AH", "IKE", "SHA" ],
+    "correct": "AH"
+  },
+  {
+    "question": "Which of the following answers refers to an IPsec component that provides (among other security features) data confidentiality?",
+    "choices": [ "DES", "ESP", "AH", "RC4" ],
+    "correct": "ESP"
+  },
+  {
+    "question": "Which of the answers listed below refers to a protocol within the IPsec protocol suite used to set up secure connections and exchange cryptographic keys?",
+    "choices": [ "TLS", "IKE", "ESP", "DHE" ],
+    "correct": "IKE"
+  },
+  {
+    "question": "A type of network traffic intended for a single host identified by a unique IP address is called:",
+    "choices": [ "Unicast", "Anycast", "Multicast", "Broadcast" ],
+    "correct": "Unicast"
+  },
+  {
+    "question": "A type of network traffic sent from one sender to a particular group of receivers is referred to as:",
+    "choices": [ "Unicast", "Anycast", "Multicast", "Broadcast" ],
+    "correct": "Multicast"
+  },
+  {
+    "question": "Which of the following answers describes network traffic sent from one sender to the nearest or best receiver among a group of potential receivers?",
+    "choices": [ "Unicast", "Anycast", "Multicast", "Broadcast" ],
+    "correct": "Anycast"
+  },
+  {
+    "question": "Which of the answers listed below refers to a one-to-all communication type where data is sent from one sender to all possible receivers within a network segment?",
+    "choices": [ "Unicast", "Anycast", "Multicast", "Broadcast" ],
+    "correct": "Broadcast"
+  },
+  {
+    "question": "Which of the following frequency bands are supported by Wi-Fi 6E-compatible devices?",
+    "choices": [ "2.4 GHz", "5 GHz", "6 GHz", "All of the above" ],
+    "correct": "All of the above"
+  },
+  {
+    "question": "xxx",
+    "choices": [ "xxx", "xxx", "xxx", "xxx" ],
+    "correct": "xxx"
+  },
+  {
+    "question": "xxx",
+    "choices": [ "xxx", "xxx", "xxx", "xxx" ],
+    "correct": "xxx"
+  }
+
+
+
+
+
+
+
+]
